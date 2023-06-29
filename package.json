@@ -1,8 +1,8 @@
 {
   "name": "com.aghcoin.coinpkg.debugging",
   "version": "1.0.0",
-  "displayName": "CDebug",
-  "description": "Debugging and logging tools for Unity",
+  "displayName": "Debugging",
+  "description": "Debugging and logging tools for Unity.",
   "unity": "2021.3",
   "documentationUrl": "https://github.com/aghcoin/coinpkg.debugging",
   "changelogUrl": "https://github.com/aghcoin/coinpkg.debugging",
