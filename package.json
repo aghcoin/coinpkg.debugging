@@ -1,0 +1,15 @@
+{
+  "name": "com.aghcoin.coinpkg.logging",
+  "version": "0.1.0-beta",
+  "displayName": "Coin Logging",
+  "description": "Better logging and log management.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/aghcoin/coinpkg.testpackage",
+  "changelogUrl": "https://github.com/aghcoin/coinpkg.testpackage",
+  "licensesUrl": "https://github.com/aghcoin/coinpkg.testpackage",
+  "author": {
+    "name": "AGH Code Industry",
+    "email": "codeindustry@agh.edu.pl",
+    "url": "https://skn.agh.edu.pl/kolo/agh-code-industry-coin/"
+  }
+}
