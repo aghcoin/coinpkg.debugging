@@ -1,12 +1,12 @@
 {
-  "name": "com.aghcoin.coinpkg.testpackage",
+  "name": "com.aghcoin.coinpkg.logging",
   "version": "0.1.0-beta",
-  "displayName": "Test Package",
-  "description": "Testing package for coinpkg",
+  "displayName": "Coin Logging",
+  "description": "Better logging and log management.",
   "unity": "2021.3",
-  "documentationUrl": "https://github.com/aghcoin/coinpkg.testpackage",
-  "changelogUrl": "https://github.com/aghcoin/coinpkg.testpackage",
-  "licensesUrl": "https://github.com/aghcoin/coinpkg.testpackage",
+  "documentationUrl": "https://github.com/aghcoin/coinpkg.logging",
+  "changelogUrl": "https://github.com/aghcoin/coinpkg.logging",
+  "licensesUrl": "https://github.com/aghcoin/coinpkg.logging",
   "author": {
     "name": "AGH Code Industry",
     "email": "codeindustry@agh.edu.pl",
