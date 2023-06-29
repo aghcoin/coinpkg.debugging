@@ -1,8 +1,8 @@
 {
-  "name": "com.aghcoin.coinpkg.logging",
+  "name": "com.aghcoin.coinpkg.testpackage",
   "version": "0.1.0-beta",
-  "displayName": "Coin Logging",
-  "description": "Better logging and log management.",
+  "displayName": "Test Package",
+  "description": "Testing package for coinpkg",
   "unity": "2021.3",
   "documentationUrl": "https://github.com/aghcoin/coinpkg.testpackage",
   "changelogUrl": "https://github.com/aghcoin/coinpkg.testpackage",
