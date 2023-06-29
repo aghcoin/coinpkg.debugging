@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace CoinPackage.Logging {
+namespace CoinPackage.Debugging {
     public class Colorize {
         public static Colorize Default = new Colorize(Color.gray);
 
