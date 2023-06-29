@@ -136,7 +136,7 @@ namespace CoinPackage.Debugging {
         /// <param name="message">Message to be logged.</param>
         [System.Diagnostics.Conditional("DEBUG")]
         public static void LogError(object message) {
-            DLogger.LogWarning(Tag % DebugErrorColor, message % DebugErrorColor);
+            DLogger.LogError(Tag % DebugErrorColor, message % DebugErrorColor);
         }
         
         /// <summary>
@@ -146,7 +146,7 @@ namespace CoinPackage.Debugging {
         /// <param name="color">Color of the message.</param>
         [System.Diagnostics.Conditional("DEBUG")]
         public static void LogError(object message, Colorize color) {
-            DLogger.LogWarning(Tag % color, message % color);
+            DLogger.LogError(Tag % color, message % color);
         }
         
         /// <summary>
@@ -156,7 +156,7 @@ namespace CoinPackage.Debugging {
         /// <param name="context">Object to which the message applies.</param>
         [System.Diagnostics.Conditional("DEBUG")]
         public static void LogError(object message, UnityEngine.Object context) {
-            DLogger.LogWarning(Tag % DebugErrorColor, message % DebugErrorColor, context);
+            DLogger.LogError(Tag % DebugErrorColor, message % DebugErrorColor, context);
         }
         
         /// <summary>
@@ -167,7 +167,7 @@ namespace CoinPackage.Debugging {
         /// <param name="color">Color of the message.</param>
         [System.Diagnostics.Conditional("DEBUG")]
         public static void LogError(object message, UnityEngine.Object context, Colorize color) {
-            DLogger.LogWarning(Tag % color, message % color, context);
+            DLogger.LogError(Tag % color, message % color, context);
         }
         
         /// <summary>
