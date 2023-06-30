@@ -216,7 +216,7 @@ namespace CoinPackage.Debugging {
         }
         
         /// <summary>
-        /// Logs formatted message to Unity console. Color depends on LogType supplied.
+        /// Logs formatted message to Unity console using specified color.
         /// </summary>
         /// <param name="logType">Type of the log message.</param>
         /// <param name="format">Composite format string.</param>
